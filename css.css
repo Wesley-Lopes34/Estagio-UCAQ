@@ -1,4 +1,10 @@
 body {
-    background-color: blue;
+    background-color: rgb(228, 205, 5);
+    #dia01{
+       color: blueviolet; 
+    }
+    .coisas_que_eu_faco{
+        color: rgb(48, 0, 70);
+    }
 
 }
