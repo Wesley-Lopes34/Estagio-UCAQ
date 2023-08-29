@@ -11,10 +11,13 @@ img#flork{
     width: 300px;
 }
 
+
 button{
     background-color: rgb(43, 61, 226);
 }
 
 #bntyt{
     background-color: rgb(197, 16, 16);
+    font-size: medium;
+    border-radius: 5px;
 }
