@@ -1,8 +1,8 @@
 body {
    
-    background-color: rgb(228, 205, 5);
+    background-color: rgb(49, 119, 124);
     #dia{
-       color: blueviolet; 
+       color: rgb(225, 245, 43); 
     }
     
 }
@@ -18,7 +18,7 @@ button{
 }
 
 #bntyt{
-    background-color: rgb(197, 16, 16);
+    background-color: rgb(194, 65, 65);
     font-size: medium;
     border-radius: 5px;
     cursor: pointer;
