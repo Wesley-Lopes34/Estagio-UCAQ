@@ -1,8 +1,12 @@
+*{
+    margin-left: 5px;
+}
 body {
    
     background-color: rgb(49, 119, 124);
     #dia{
        color: rgb(225, 245, 43); 
+       margin-left: 30px;
     }
     
 }
@@ -35,4 +39,8 @@ footer {
     height: 100%;
     text-align: center;
     line-height: 75px;
+}
+
+#video-themer-sasuke{
+    margin-left: 50px;
 }
